@@ -10,7 +10,9 @@ public class sum {
     }
 
     public static int sum(int n1, int n2) {
+        System.out.println("hello ");
         return n1 + n2;
 
     }
+
 }
